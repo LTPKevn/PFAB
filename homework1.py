@@ -9,7 +9,7 @@ print first+" "+last+" "+age
 sideA = 12.55
 sideB = 17.85
 
-sideC = math.sqrt((sideA**2) +(sideB**2))
+sideC = math.sqrt((sideA*sideA) +(sideB*sideB))
 print sideC
 
 operand1 = 95
